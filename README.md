@@ -3,7 +3,7 @@ En este bootcamp conoceras las herramientas de IBM Cloud, que te permitiran desc
 
 Estas herramientas las encontraras en [![IBM Cloud Powered][img-ibmcloud-powered]][url-ibmcloud]
 
-Puedes encontrar más información de **IBM Data Science** en [![IBM Data Science][img-ibmdloudds]][url-ibmcloudds]
+Puedes encontrar más información de **IBM Data Science** en [![IBM Data Science][img-ibmcloudds]][url-ibmcloudds]
 
 Para **Data Science**, **IBM Cloud** tiene herramientas como:
 * [![Watson Studio][img-WS]][url-WS] Que simplifica y escala la ciencia de datos para predecir y optimizar el porvenir de los negocios.
