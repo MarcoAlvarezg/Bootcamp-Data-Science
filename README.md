@@ -18,5 +18,5 @@ Para **Data Science**, **IBM Cloud** tiene herramientas como:
 [url-ibmcloudds]: https://www.ibm.com/analytics/data-science
 [img-WS]: https://img.shields.io/badge/IBM%20Cloud-Watson%20Studio-9cf.svg
 [url-WS]:https://www.ibm.com/cloud/watson-studio
-[img-visual]: https://img.shields.io/badge/IBM%20Cloud-Watson%20Visual%20Recongnition-blue.svg
+[img-visual]: https://img.shields.io/badge/IBM%20Cloud-Watson%20Visual%20Recongnition-9cf.svg
 [url-visual]: https://www.ibm.com/cloud/watson-visual-recognition
