@@ -8,7 +8,7 @@ Puedes encontrar más información de **IBM Data Science** en [![IBM Data Scienc
 Para **Data Science**, **IBM Cloud** tiene herramientas como:
 * [![Watson Studio][img-WS]][url-WS] Que simplifica y escala la ciencia de datos para predecir y optimizar el porvenir de los negocios.
 * [![IBM Cloud Watson Visual Recognition][img-visual]][url-visual] Que entiende el contenido de las imágenes y videos para encontrar escenas, objetos, caras, colores, alimentos, y otros temas que le pueden dar perspectiva sobre el contenido visual.
-
+* [![IBM Cloud Watson Machine Learning][img-machine]][url-machine] Que hace que el deep learning y el machine learning sean más accesibles para su personal y proporciona los beneficios de la IA a su negocio.
 
 
 
@@ -20,3 +20,5 @@ Para **Data Science**, **IBM Cloud** tiene herramientas como:
 [url-WS]:https://www.ibm.com/cloud/watson-studio
 [img-visual]: https://img.shields.io/badge/IBM%20Cloud-Watson%20Visual%20Recongnition-9cf.svg
 [url-visual]: https://www.ibm.com/cloud/watson-visual-recognition
+[img-machine]: https://img.shields.io/badge/IBM%20Cloud-Watson%20Machine%20Learning-9cf.svg
+[url-machine]: https://www.ibm.com/us-en/marketplace/deep-learning-platform
