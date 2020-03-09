@@ -13,7 +13,7 @@ Para **Data Science**, **IBM Cloud** tiene herramientas como:
 ## Pre-requisitos
 * Tener instalado [**github Desktop**](https://desktop.github.com) o [**git cli**](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 * Tener instalado el [**CLI de IBM Cloud**](https://cloud.ibm.com/docs/cli?topic=cloud-cli-getting-started) (Si tienes problemas con este paso, da clic [**aquí**](https://cloud.ibm.com/docs/cli?topic=cloud-cli-install-ibmcloud-cli) para descargar la versión “STANDALONE”).
-* Descargar el repositorio del siguiente [**enlace**](https://github.com/ibmdevelopermx/CHURN-app-Jupyter-Notebook-y-WS).
+* Descargar el repositorio del siguiente [**enlace**](https://github.com/ibmdevelopermx/DataScience).
 
 ## Data Science-Lab 1
 Aprende en este laboratorio a crear una instancia de Watson Studio y cargar un dataset:
@@ -29,6 +29,16 @@ Aprende a crear un modelo en un Jupiter Notebook dentro de Watson Studio:
 
 [url-lab2]: /Data-Science-Lab-2
 
+## Data Science-Lab 3
+Aprende a desplegar un modelo de un Jupiter Notebook dentro de Watson Studio:
+
+[IBM Data Science Lab 3][url-lab3]
+
+[url-lab3]: /Data-Science-Lab-3
+
+
+**Te invitamos a explorar otros talleres y manuales en el siguiente enlace de Github.**
+https://github.com/ibmdevelopermx
 
 
 

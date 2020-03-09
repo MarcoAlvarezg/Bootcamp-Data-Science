@@ -4,7 +4,7 @@ Aprende en este laboratorio a crear una instancia de Watson Studio y cargar un d
 # Pre-requisitos
 * Tener instalado [**github Desktop**](https://desktop.github.com) o [**git cli**](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 * Tener instalado el [**CLI de IBM Cloud**](https://cloud.ibm.com/docs/cli?topic=cloud-cli-getting-started) (Si tienes problemas con este paso, da clic [**aquí**](https://cloud.ibm.com/docs/cli?topic=cloud-cli-install-ibmcloud-cli) para descargar la versión “STANDALONE”).
-* Descargar el repositorio del siguiente [**enlace**](https://github.com/ibmdevelopermx/CHURN-app-Jupyter-Notebook-y-WS).
+* Descargar el repositorio del siguiente [**enlace**](https://github.com/ibmdevelopermx/DataScience).
 
 
 ## 1. Crear una instancia de Cloud Object Storage.
@@ -47,6 +47,8 @@ http://cloud.ibm.com
 [img-ibmcloud-powered]: https://img.shields.io/badge/IBM%20Cloud-Powered-blue.svg
 [url-ibmcloud]: https://www.ibm.com/cloud/
 
-Y listo! Puedes continuar con el siguente lab [**AQUI**](https://github.com/Rostizadobb/Data-Science-Lab-2).
+Y listo! Puedes continuar con el siguente lab.
+
+
 Te invitamos a explorar otros talleres y manuales en el siguiente enlace de Github.
 https://github.com/ibmdevelopermx

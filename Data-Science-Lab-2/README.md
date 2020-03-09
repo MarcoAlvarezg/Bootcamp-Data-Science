@@ -2,8 +2,7 @@
 # Data Science-Lab 2
 Aprende a crear un modelo en un Jupiter Notebook dentro de Watson Studio!!
 
-Ojo: Esta es la parte 2 de 3 de nuestro taller de Data Science, puedes entrar a la primera parte desde este enlace: https://github.com/Rostizadobb/Data_Science-Lab-1
-
+**Ojo: Esta es la parte 2 de 3 de nuestro taller de Data Science.**
 
 ## 5. Importar una Jupyter Notebook:
 1. Damos clic en “Add to project”.
