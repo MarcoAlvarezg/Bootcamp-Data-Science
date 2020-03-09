@@ -39,21 +39,21 @@ Aprende en este laboratorio a crear una instancia de Watson Studio y cargar un d
 
 [IBM Data Science Lab 1][url-lab1]
 
-[url-lab1]: /Data_Science-Lab-1
+[url-lab1]: /Churn-Watson-Studio-and-Machine-Learning/Data_Science-Lab-1
 
 ## Data Science-Lab 2
 Aprende a crear un modelo en un Jupiter Notebook dentro de Watson Studio:
 
 [IBM Data Science Lab 2][url-lab2]
 
-[url-lab2]: /Data-Science-Lab-2
+[url-lab2]: /Churn-Watson-Studio-and-Machine-Learning/Data-Science-Lab-2
 
 ## Data Science-Lab 3
 Aprende a desplegar un modelo de un Jupiter Notebook dentro de Watson Studio:
 
 [IBM Data Science Lab 3][url-lab3]
 
-[url-lab3]: /Data-Science-Lab-3
+[url-lab3]: /Churn-Watson-Studio-and-Machine-Learning/Data-Science-Lab-3
 
 
 **Te invitamos a explorar otros talleres y manuales en el siguiente enlace de Github.**
