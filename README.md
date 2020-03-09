@@ -16,10 +16,18 @@ Para **Data Science**, **IBM Cloud** tiene herramientas como:
 * Descargar el repositorio del siguiente [**enlace**](https://github.com/ibmdevelopermx/CHURN-app-Jupyter-Notebook-y-WS).
 
 ## Data Science-Lab 1
-Aprende en este laboratorio a crear una instancia de Watson Studio y cargar un dataset.
+Aprende en este laboratorio a crear una instancia de Watson Studio y cargar un dataset:
 
-![IBM Lab1][url-lab1].
+[IBM Data Science Lab 1][url-lab1]
+
 [url-lab1]: /Data_Science-Lab-1
+
+## Data Science-Lab 2
+Aprende a crear un modelo en un Jupiter Notebook dentro de Watson Studio:
+
+[IBM Data Science Lab 2][url-lab2]
+
+[url-lab2]: /Data-Science-Lab-2
 
 
 

@@ -7,22 +7,6 @@ Aprende en este laboratorio a crear una instancia de Watson Studio y cargar un d
 * Descargar el repositorio del siguiente [**enlace**](https://github.com/ibmdevelopermx/CHURN-app-Jupyter-Notebook-y-WS).
 
 
-## Cupones para profesores y estudiantes:
-
-* Acceder al portal de [IBM Academic Initiative][url-academic] y seleccionar la opción "Register now" si aun no tienes cuenta.
-* Realizar el registro correspondiente utilizando la cuenta de correo académica y confirma tu cuenta.
-* Despues de confirmar tu cuenta, y con la sesion iniciada en IBM Academic Initiative, en la parte de "Most Popular Topics covered", encontraremos **IBM Cloud** y damos clic en "Learn more".
-* Bajamos de la pagina hasta encontrar "Software". Le damos clic, nos dara un apartado que se llama "Request Feature Code".
-* Nos dara nuestro codigo. Lo copiamos y lo llevamos a **IBM Cloud**.
-
-## Cargar créditos en IBM Cloud:
-
-* En la parte superior derecha, buscaremos la parte de "MANAGE"/"GESTIONAR", nos desplegara una lista y seleccionaremos "Account"/"Cuenta".
-* De lado izquierdo, tendremos una opción "Account settings"/"Configuracion de cuenta".
-* Bajamos un poco hasta encontrar "Subscription and feature codes"/"Codigos de suscripción y carateristicas".
-* Da clic en "Apply code"/"Aplicar codigo".
-* Ingresamos el codigo y clic en "Apply"/"Aplicar".
-
 ## 1. Crear una instancia de Cloud Object Storage.
 1.	Realizamos login a IBM Cloud
 http://cloud.ibm.com
