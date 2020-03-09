@@ -18,13 +18,15 @@ Para **Data Science**, **IBM Cloud** tiene herramientas como:
 ## Pre-requisitos
 * Tener instalado [**github Desktop**](https://desktop.github.com) o [**git cli**](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 * Tener instalado el [**CLI de IBM Cloud**](https://cloud.ibm.com/docs/cli?topic=cloud-cli-getting-started) (Si tienes problemas con este paso, da clic [**aquí**](https://cloud.ibm.com/docs/cli?topic=cloud-cli-install-ibmcloud-cli) para descargar la versión “STANDALONE”).
-* Descargar el repositorio del siguiente [**enlace**](https://github.com/ibmdevelopermx/DataScience).
+* Descargar los repositorio siguientes:
+    - https://github.com/ibmdevelopermx/DataScience
+    - https://github.com/ibmdevelopermx/DataScience-ModelerFlow
 
 ## LABORATORIOS
 
 * Para aprender a usar **IBM SPSS Modeler**:
     [Modeler Flow](/Modeler-Flow)
-* Para **Watson Studio** con **Machine Learning***:
+* Para **Watson Studio** con **Machine Learning**:
     [Watson Studio](/Churn-Watson-Studio-and-Machine-Learning)
 
 

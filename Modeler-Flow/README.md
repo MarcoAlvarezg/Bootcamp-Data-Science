@@ -9,6 +9,11 @@ Puedes encontrar más información de **IBM Data Science** en [![IBM Data Scienc
 **IBM SPSS Modeler** faculta a una empresa para usar la ciencia de datos con la facilidad de arrastrar y soltar para acelerar el tiempo de valor para los modelos a escala de producción.
 [url-spss]: https://www.ibm.com/products/spss-modeler
 
+## Pre-requisitos
+* Tener instalado [**github Desktop**](https://desktop.github.com) o [**git cli**](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
+* Tener instalado el [**CLI de IBM Cloud**](https://cloud.ibm.com/docs/cli?topic=cloud-cli-getting-started) (Si tienes problemas con este paso, da clic [**aquí**](https://cloud.ibm.com/docs/cli?topic=cloud-cli-install-ibmcloud-cli) para descargar la versión “STANDALONE”).
+* Descargar el repositorio del siguiente:
+    - https://github.com/ibmdevelopermx/DataScience-ModelerFlow
 
 [img-ibmcloud-powered]: https://img.shields.io/badge/IBM%20Cloud-Powered-blue.svg
 [url-ibmcloud]: https://www.ibm.com/cloud/
