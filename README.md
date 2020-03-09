@@ -24,7 +24,7 @@ Para **Data Science**, **IBM Cloud** tiene herramientas como:
 
 * Para aprender a usar **IBM SPSS Modeler**:
     [Modeler Flow](/Modeler-Flow)
-* Para Watson Studio con Machine Learning:
+* Para **Watson Studio** con **Machine Learning***:
     [Watson Studio](/Churn-Watson-Studio-and-Machine-Learning)
 
 
