@@ -10,7 +10,48 @@ Para **Data Science**, **IBM Cloud** tiene herramientas como:
 
 * [![IBM Cloud Watson Machine Learning Accelerator][img-machine]][url-machine] Que hace que el deep learning y el machine learning sean más accesibles para su personal y proporciona los beneficios de la IA a su negocio.
 
+## Pre-requisitos
+* Tener instalado [**github Desktop**](https://desktop.github.com) o [**git cli**](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
+* Tener instalado el [**CLI de IBM Cloud**](https://cloud.ibm.com/docs/cli?topic=cloud-cli-getting-started) (Si tienes problemas con este paso, da clic [**aquí**](https://cloud.ibm.com/docs/cli?topic=cloud-cli-install-ibmcloud-cli) para descargar la versión “STANDALONE”).
+* Descargar el repositorio del siguiente [**enlace**](https://github.com/ibmdevelopermx/CHURN-app-Jupyter-Notebook-y-WS).
 
+## Data Science-Lab 1
+Aprende en este laboratorio a crear una instancia de Watson Studio y cargar un dataset.
+
+![IBM Lab1][url-lab1].
+[url-lab1]: /Data_Science-Lab-1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Cupones para profesores y estudiantes:
+
+* Acceder al portal de [IBM Academic Initiative][url-academic] y seleccionar la opción "Register now" si aun no tienes cuenta.
+* Realizar el registro correspondiente utilizando la cuenta de correo académica y confirma tu cuenta.
+* Despues de confirmar tu cuenta, y con la sesion iniciada en IBM Academic Initiative, en la parte de "Most Popular Topics covered", encontraremos **IBM Cloud** y damos clic en "Learn more".
+* Bajamos de la pagina hasta encontrar "Software". Le damos clic, nos dara un apartado que se llama "Request Feature Code".
+* Nos dara nuestro codigo. Lo copiamos y lo llevamos a **IBM Cloud**.
+
+## Cargar créditos en IBM Cloud:
+
+* En la parte superior derecha, buscaremos la parte de "MANAGE"/"GESTIONAR", nos desplegara una lista y seleccionaremos "Account"/"Cuenta".
+* De lado izquierdo, tendremos una opción "Account settings"/"Configuracion de cuenta".
+* Bajamos un poco hasta encontrar "Subscription and feature codes"/"Codigos de suscripción y carateristicas".
+* Da clic en "Apply code"/"Aplicar codigo".
+* Ingresamos el codigo y clic en "Apply"/"Aplicar".
 
 [img-ibmcloud-powered]: https://img.shields.io/badge/IBM%20Cloud-Powered-blue.svg
 [url-ibmcloud]: https://www.ibm.com/cloud/
@@ -22,3 +63,4 @@ Para **Data Science**, **IBM Cloud** tiene herramientas como:
 [url-visual]: https://www.ibm.com/cloud/watson-visual-recognition
 [img-machine]: https://img.shields.io/badge/IBM%20Cloud-Watson%20Machine%20Learning%20Accelerator-9cf.svg
 [url-machine]: https://www.ibm.com/us-en/marketplace/deep-learning-platform
+[url-academic]: https://my15.digitalexperience.ibm.com/b73a5759-c6a6-4033-ab6b-d9d4f9a6d65b/dxsites/151914d1-03d2-48fe-97d9-d21166848e65/home/
