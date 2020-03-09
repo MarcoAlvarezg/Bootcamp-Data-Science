@@ -13,6 +13,7 @@ Para **Data Science**, **IBM Cloud** tiene herramientas como:
 * [![IBM SPSS Modeler][img-spss]][url-spss]
 
 **IBM SPSS Modeler** faculta a una empresa para usar la ciencia de datos con la facilidad de arrastrar y soltar para acelerar el tiempo de valor para los modelos a escala de producción.
+
 [url-spss]: https://www.ibm.com/products/spss-modeler
 [img-spss]: https://img.shields.io/badge/IBM-SPSS%20Modeler-9cf.svg
 ## Pre-requisitos
