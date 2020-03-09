@@ -5,10 +5,42 @@ Estas herramientas las encontraras en [![IBM Cloud Powered][img-ibmcloud-powered
 
 Puedes encontrar más información de **IBM Data Science** en [![IBM Data Science][img-ibmcloudds]][url-ibmcloudds]
 
+**Predecir la pérdida de clientes con Watson Machine Learning y las notebooks Jupyter en Cloud Pak para datos**
+
+En este patrón de código, utilizamos **IBM Watson Studio** para pasar por toda la tubería de ciencia de datos para resolver un problema comercial y predecir la pérdida de clientes utilizando un conjunto de datos de pérdida de clientes de Telco.
+
+Aprenderas a:
+
+   * Usar los cuadernos Jupyter para cargar, visualizar y analizar datos.
+   * Ejecutar cuadernos en IBM Watson Studio para datos.
+   * Crear, probar e implementar un modelo de aprendizaje automático utilizando Spark MLib en Watson Studio.
+   * Implementar un modelo de aprendizaje automático seleccionado para la producción usando Watson Studio
+   * Crear una aplicación front-end para interactuar con el cliente y comenzar a consumir su modelo implementado.
+
+![](doc/architecture.png)
+
+## Flujo
+
+* El usuario carga el Jupyter notebook en la plataforma Watson Studio.
+* El conjunto de datos de abandono de clientes de Telco se carga en el Jupyter Notebook, ya sea directamente desde el repositorio de github o como Datos virtualizados después de seguir el Tutorial de virtualización de datos de IBM Watson Studio para la Ruta de aprendizaje de datos.
+* Preprocese los datos, cree modelos de aprendizaje automático y guárdelos en Watson Machine Learning en Watson studio.
+* Implemente un modelo de aprendizaje automático seleccionado en producción en la plataforma Watson Studio y obtenga un punto final de puntuación.
+* Use el modelo para la predicción de crédito utilizando una aplicación frontend.
+
+
+
 Para **Data Science**, **IBM Cloud** tiene herramientas como:
 * [![Watson Studio][img-WS]][url-WS] Que simplifica y escala la ciencia de datos para predecir y optimizar el porvenir de los negocios.
 
 * [![IBM Cloud Watson Machine Learning Accelerator][img-machine]][url-machine] Que hace que el deep learning y el machine learning sean más accesibles para su personal y proporciona los beneficios de la IA a su negocio.
+
+* Jupyter Notebooks: una aplicación web de código abierto que le permite crear y compartir documentos que contienen código en vivo, ecuaciones, visualizaciones y texto explicativo.
+
+* Pandas: una biblioteca de código abierto que proporciona estructuras de datos de alto rendimiento y herramientas de análisis de datos fáciles de usar para el lenguaje de programación Python.
+
+* Seaborn: una biblioteca de visualización de datos de Python basada en matplotlib. Proporciona una interfaz de alto nivel para dibujar gráficos estadísticos atractivos e informativos.
+
+* Spark MLib: la biblioteca escalable de aprendizaje automático de Apache Spark.
 
 ## Pre-requisitos
 * Tener instalado [**github Desktop**](https://desktop.github.com) o [**git cli**](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
